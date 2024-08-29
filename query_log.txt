@@ -1,1 +1,0 @@
-2024-08-22 14:24:05,338 - Query: SELECT * FROM film WHERE release_year = 2011, Time: 0.02 sec, Result: 22 rows, Film: ALICE FANTASIA
